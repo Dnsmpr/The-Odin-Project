@@ -1,0 +1,16 @@
+#testDiv {
+    background-color: blue;
+}
+#foo {
+    background-color: brown
+}
+.f1 {
+    background-color: crimson;
+}
+div {
+    background-color: blueviolet;
+}
+.f1,
+#foo {
+    color:aliceblue
+}
